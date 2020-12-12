@@ -34,6 +34,13 @@ Bitcoin Cash is a digital currency that enables instant payments to anyone, anyw
 ## What is Bitcoin Cash Node?
 [Bitcoin Cash Node](bitcoincashnodes.org) is the name of open-source software which enables the use of Bitcoin Cash. It is a descendant of the Bitcoin Core and Bitcoin ABC software projects.
 
+## BCHNwallet - Lightweight Bitcoin Cash client
+```
+Licence: MIT Licence
+Author: BitcoinCashNode Developers
+Language: Python
+Homepage: [www.bitcoincashnode.org](https://www.bitcoincashnodes.org)
+```
 ## License
 Bitcoin Cash Node is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
 
