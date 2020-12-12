@@ -1,6 +1,22 @@
 # How-to-safely-split-BCH-and-BCHA-coins-BitcoinCash-BitcoinABC-Hard-Fork-2020
 This upgrade is expected to fork Bitcoin Cash out of two chains, BCHA (Bitcoin Cash ABC) and BCH (Bitcoin Cash Node)
 
+<div align="center">
+  <a href="">
+    <img src="https://camo.githubusercontent.com/a4bf767b19695ac59cffcf809a1ad065a0e89b9dd58cd79668c6cc9679ea80cf/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f32373431393837392d376165382d346637622d616432652d3131376665373863653831342f6465706c6f792d737461747573" alt="">
+  </a>
+  <a href="">
+    <img src="https://camo.githubusercontent.com/6af924e2715d6ef374ce052cf9ad25e51cc3fcac8eb01dddc2b65f488f2d5a4a/68747470733a2f2f7472617669732d63692e6f72672f626974636f696e2d636173682d6e6f64652f6263686e6f64652d7765622e7376673f6272616e63683d6d6173746572" alt="">
+  </a>
+    <a href="">
+    <img src="https://badges.crowdin.net/bchnode-web/localized.svg" alt="">
+  </a>
+   </a>
+    <a href="">
+    <img src="https://www.codefactor.io/repository/github/bitcoin-cash-node/bchnode-web/badge" alt="">
+  </a>
+</div>
+
 The goal of Bitcoin Cash Node is to create sound money that is usable by everyone in the world. We believe this is a civilization-changing technology which will dramatically increase human flourishing, freedom, and prosperity. The project aims to achieve this goal by implementing a series of optimizations and protocol upgrades that will enable peer-to-peer digital cash to scale many orders of magnitude beyond current limits.
 
 ## What is Bitcoin Cash?
