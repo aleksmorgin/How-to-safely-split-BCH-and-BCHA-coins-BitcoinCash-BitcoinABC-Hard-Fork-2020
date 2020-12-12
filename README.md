@@ -36,6 +36,7 @@ Bitcoin Cash is a digital currency that enables instant payments to anyone, anyw
 
 ## How to safely split BCH and BCHA (Bitcoin ABC) coins using official desktop wallet.
 The problem that splitting coins solves, is to make it so you can spend the coins on the Bitcoin Cash Node network without the same transaction also spending the coins on the Bitcoin Cash ABC network. This happens for coins that have not been split, because when your wallet creates the transaction that spends them, it has no way of marking that transaction so it only works on one of those networks.
+
 If you had BCH wallet at the time of the hardfork (Nov 15,2020), you can get two coins: BCH and BitcoinABC. You balance will be dublicated in two networks.
 Install the official [BCHNwallet](https://bchnwallet.org) and split your BCH coins.
 ## BCHNwallet - Lightweight Bitcoin Cash client
