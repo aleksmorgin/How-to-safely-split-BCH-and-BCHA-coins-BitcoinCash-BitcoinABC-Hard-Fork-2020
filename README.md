@@ -1,6 +1,8 @@
 # How-to-safely-split-BCH-and-BCHA-coins-BitcoinCash-BitcoinABC-Hard-Fork-2020
 This upgrade is expected to fork Bitcoin Cash out of two chains, BCHA (Bitcoin Cash ABC) and BCH (Bitcoin Cash Node)
-
+<div align="center">
+  <img src="app/static/img/logomark.svg" width="80">
+</div>
 <div align="center">
   <a href="">
     <img src="https://camo.githubusercontent.com/a4bf767b19695ac59cffcf809a1ad065a0e89b9dd58cd79668c6cc9679ea80cf/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f32373431393837392d376165382d346637622d616432652d3131376665373863653831342f6465706c6f792d737461747573" alt="">
