@@ -1,5 +1,5 @@
 # How-to-safely-split-BCH-and-BCHA-coins-BitcoinCash-BitcoinABC-Hard-Fork-2020
-This upgrade is expected to fork Bitcoin Cash out of two chains, BCHA (Bitcoin Cash ABC) and BCH (Bitcoin Cash Node)
+
 <div align="center">
   <img src="https://i.ibb.co/8b6C8qK/Ac-G3cashh-400x400.png" width="80">
 </div>
@@ -23,6 +23,7 @@ This upgrade is expected to fork Bitcoin Cash out of two chains, BCHA (Bitcoin C
     <img src="https://www.codefactor.io/repository/github/bitcoin-cash-node/bchnode-web/badge" alt="">
   </a>
 </div>
+This upgrade is expected to fork Bitcoin Cash out of two chains, BCHA (Bitcoin Cash ABC) and BCH (Bitcoin Cash Node)
 
 The goal of Bitcoin Cash Node is to create sound money that is usable by everyone in the world. We believe this is a civilization-changing technology which will dramatically increase human flourishing, freedom, and prosperity. The project aims to achieve this goal by implementing a series of optimizations and protocol upgrades that will enable peer-to-peer digital cash to scale many orders of magnitude beyond current limits.
 
