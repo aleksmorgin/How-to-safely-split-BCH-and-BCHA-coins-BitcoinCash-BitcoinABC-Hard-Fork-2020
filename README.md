@@ -39,7 +39,7 @@ Bitcoin Cash is a digital currency that enables instant payments to anyone, anyw
 Licence: MIT Licence
 Author: BitcoinCashNode Developers
 Language: Python
-Homepage: bitcoincashnode.org
+Latest version: v.2.1.1
 ```
 ## License
 Bitcoin Cash Node is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
