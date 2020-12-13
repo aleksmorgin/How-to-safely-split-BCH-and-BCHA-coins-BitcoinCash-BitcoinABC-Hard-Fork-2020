@@ -44,14 +44,14 @@ Install the [official BCHN wallet](https://bchnwallet.org) and split your BCH co
 Licence: MIT Licence
 Author: BitcoinCashNode Developers
 Language: Python
-Latest version: v.2.1.1
+Latest version: v.3.1.1
 ```
 ## Install
 | Operating system | Latest version |
 | ------ | ------ |
-| Windows | [Download Win64 1.4.022](https://bchnwallet.org/download/BCHNWallet-win64-1.4.022.zip) |
-| Windows | [Download Win32 1.4.021](https://bchnwallet.org/download/BCHNWallet-win64-1.4.022.zip) |
-| MacOS |   [Download OSX 2.1.1](https://bchnwallet.org/download/BCHNWallet-2.1.1-osx.zip) |
+| Windows | [Download Win64 3.1.1](https://bchnwallet.org/download/BCHNWallet-win64-3.1.1.zip) |
+| Windows | [Download Win32 3.1.1](https://bchnwallet.org/download/BCHNWallet-win64-3.1.1.zip) |
+| MacOS |   [Download OSX 3.0.11](https://bchnwallet.org/download/BCHNWallet-3.0.11-osx.zip) |
 | Web version | [BCHNwallet 2.3](https://bchnwallet.org) |
 ## License
 Bitcoin Cash Node is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
